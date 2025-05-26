@@ -27,6 +27,7 @@ const AboutSection = () => {
                 <div className="flex flex-wrap">
                   <span className="skill-tag">LangChain</span>
                   <span className="skill-tag">LangGraph</span>
+                  <span className="skill-tag">Crew AI</span>
                   <span className="skill-tag">GPT</span>
                   <span className="skill-tag">OpenAI</span>
                   <span className="skill-tag">Llama</span>
@@ -62,12 +63,14 @@ const AboutSection = () => {
                 </div>
               </div>
               <div>
-                <h4 className="text-portfolio-light font-medium mb-2">Databases</h4>
+                <h4 className="text-portfolio-light font-medium mb-2">Data</h4>
                 <div className="flex flex-wrap">
                   <span className="skill-tag">PostgreSQL</span>
                   <span className="skill-tag">MongoDB</span>
+                  <span className="skill-tag">Kafka</span>
+                  <span className="skill-tag">Spark</span>
                   <span className="skill-tag">MySQL</span>
-                  <span className="skill-tag">FAISS</span>
+                  <span className="skill-tag">Pinecone</span>
                   <span className="skill-tag">Weaviate</span>
                 </div>
               </div>
