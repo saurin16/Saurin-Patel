@@ -19,21 +19,21 @@ const ProjectsSection = () => {
       title: "AI Customer Support Assistant",
       description: "Engineered an Agentic-AI chatbot with sentiment analysis, dynamic query routing, and conversation memory for real-time issue resolution, reducing customer response time by 40%.",
       stack: ["LangGraph", "BERT", "Tokenization", "Embeddings", "Llama 3.3 70B", "Gradio", "FastAPI"],
-      github: "https://github.com/saurin16/ai-customer-support",
+      github: "https://github.com/saurin16/Agentic_customer_support_assistant",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&q=80&w=3270&h=2000"
     },
     {
       title: "Multi-Agent AI Query System",
       description: "Designed a multi-agent AI system enabling dynamic query resolution using Llama 3.3-70B and GPT-4o-mini, integrating real-time web search (Tavily) for enhanced response accuracy.",
       stack: ["LangGraph", "Groq", "NLP", "OpenAI", "FastAPI", "Streamlit", "Tavily"],
-      github: "https://github.com/saurin16/multi-agent-ai",
+      github: "https://github.com/saurin16/AI_Agent_Chatbot_with_fast_api",
       image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=3172&h=2000"
     },
     {
       title: "AI Career Coach",
       description: "Developed full-stack application using Next.js, Neon DB(PostgreSQL), Prisma, Inngest, and Shadcn UI with Gemini, providing personalized career guidance for 200+ users.",
       stack: ["Next.js", "PostgreSQL", "Gemini", "NeonDB", "Prisma", "Shadcn UI"],
-      github: "https://github.com/saurin16/ai-career-coach",
+      github: "https://github.com/saurin16/AI-Career-Coach",
       demoUrl: "https://ai-career-coach-seven-delta.vercel.app/",
       image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&q=80&w=3270&h=2000"
     },
@@ -41,14 +41,14 @@ const ProjectsSection = () => {
       title: "Crew Agent Generator",
       description: "Built an interactive tool that translates natural language prompts into structured CrewAI agent/task setups with auto-generated Python code for seamless AI workflow creation.",
       stack: ["Streamlit", "OpenAI", "GPT-4o-mini", "Python"],
-      github: "https://github.com/saurin16/crew-agent-generator",
+      github: "https://github.com/saurin16/CrewAI-Agent-Generator",
       image: "https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&q=80&w=3270&h=2000"
     },
     {
       title: "ReAct-RAG-Based Medical Assistant",
       description: "Developed a ReAct-based medical assistant using OpenAI, LangGraph and FAISS for dynamic patient data retrieval from CSV and PDF sources, enhancing healthcare decision-making.",
       stack: ["LangGraph", "FAISS", "OpenAI", "FastAPI", "RAG"],
-      github: "https://github.com/saurin16/medical-assistant",
+      github: "https://github.com/saurin16/ReAct_RAG-MedicalAssistant",
       image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&q=80&w=3021&h=2000"
     },
     {
