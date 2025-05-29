@@ -194,7 +194,7 @@ const ContactSection = () => {
                 <Linkedin className="h-4 w-4 lg:h-5 lg:w-5" />
               </a>
               <a 
-                href="https://twitter.com/" 
+                href="https://x.com/Saurin68943842" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 lg:p-3 bg-portfolio-navy rounded-full text-portfolio-slate hover:text-portfolio-light transition-colors"
