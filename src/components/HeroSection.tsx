@@ -17,7 +17,7 @@ const HeroSection = () => {
             I build intelligent solutions.
           </h2>
           <p className="text-lg text-portfolio-slate max-w-lg mb-8 animate-fade-in" style={{ animationDelay: '600ms' }}>
-            I'm a Software Developer and AI/ML Specialist passionate about AI/ML, backend systems, and full-stack engineering. Currently pursuing my M.S. in Computer Science at Illinois Institute of Technology.
+            I'm a Software Developer and AI/ML Specialist passionate about AI/ML, backend systems, and full-stack engineering. I completed my M.S. in Computer Science at Illinois Institute of Technology.
           </p>
           <div className="flex space-x-4 animate-fade-in" style={{ animationDelay: '800ms' }}>
             <a href="#projects" className="btn-primary">
